@@ -1,0 +1,12 @@
+dados/
+__pycache__/
+*.pyc
+*.sqlite
+*.sqlite-*
+.env
+.env.*
+!.env.example
+*token*.txt
+tmp*/
+mcp_session.py
+.mcp-cache/
